@@ -1,3 +1,11 @@
+This is a simple Quiz App
+![image](https://github.com/CyrilPhilip99/QuizApp/assets/122370493/7d953cd3-bc9f-4950-a661-d41e1aac5ada)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
